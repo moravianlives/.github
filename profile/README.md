@@ -16,7 +16,7 @@ All current Moravian Lives project files can be found in the ML repository.
 ### Processing Files
 * All files required for encoding and transforming TEI documents can be found in the [CodeScripts](https://github.com/moravianlives/ML/tree/master/CodeScripts) directory.
 
-#### Availability
+### Availability
 * Unless otherwise indicated, Moravian Lives materials are available with a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license.
 
 ### Contact
