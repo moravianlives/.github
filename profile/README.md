@@ -11,7 +11,7 @@ All current Moravian Lives project files can be found in the ML repository.
 * Each directory includes a variety of file types depending on the transcription and encoding work done on those files. Fulneck memoirs were transcribed in Transkribus and then exported in 'Searchable PDF' and 'Standard XML' files. They are encoded for semantics and structure in TE-XML. See schema file for documentation about encoding methodology. 
 
 ### Memoir Images
-* All images are stored in .jpg format in a top-level directory named 'IMG'. Within that directory images are separated by archive: Fulneck (MAF), Fetter Lane (MAL), Bethlehem (MAB), Nazareth (MAN).
+* All images are stored in .jpg format in a top-level directory named 'IMG'. Within that directory images are separated by archive: Fulneck ([MAF](https://github.com/moravianlives/ML/tree/master/IMG/MAF)), Fetter Lane ([MAL](https://github.com/moravianlives/ML/tree/master/IMG/MAL)), Bethlehem ([MAB](https://github.com/moravianlives/ML/tree/master/IMG/MAB)), Nazareth ([MAN](https://github.com/moravianlives/ML/tree/master/IMG/MAN)).
 
 ### Processing Files
 * All files required for encoding and transforming TEI documents can be found in the [CodeScripts](https://github.com/moravianlives/ML/tree/master/CodeScripts) directory.
