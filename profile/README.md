@@ -8,7 +8,7 @@ All current Moravian Lives project files can be found in the ML repository.
 
 ### Memoirs
 * Memoir files are organized in directories by archive: [Bethlehem](https://github.com/moravianlives/ML/tree/master/Bethlehem), [Fetter Lane](https://github.com/moravianlives/ML/tree/master/FetterLane), and [Fulneck](https://github.com/moravianlives/ML/tree/master/Fulneck)
-* Each directory includes a variety of file types depending on the transcription and encoding work done on those files. Fulneck memoirs were transcribed in Transkribus and then exported in 'Searchable PDF' and 'Standard XML' files. They are encoded for semantics and structure in TE-XML. See the [Moravian Lives Encoding Documentation](/blob/master/MLdocumentation.md) file for documentation about encoding methodology. 
+* Each directory includes a variety of file types depending on the transcription and encoding work done on those files. Fulneck memoirs were transcribed in Transkribus and then exported in 'Searchable PDF' and 'Standard XML' files. They are encoded for semantics and structure in TE-XML. See the [Moravian Lives Encoding Documentation]([/blob/master/MLdocumentation.md](https://github.com/moravianlives/ML/blob/master/MLdocumentation.md) file for documentation about encoding methodology. 
 
 ### Memoir Images
 * All images are stored in .jpg format in a top-level directory named 'IMG'. Within that directory images are separated by archive: Fulneck ([MAF](https://github.com/moravianlives/ML/tree/master/IMG/MAF)), Fetter Lane ([MAL](https://github.com/moravianlives/ML/tree/master/IMG/MAL)), Bethlehem ([MAB](https://github.com/moravianlives/ML/tree/master/IMG/MAB)), Nazareth ([MAN](https://github.com/moravianlives/ML/tree/master/IMG/MAN)).
